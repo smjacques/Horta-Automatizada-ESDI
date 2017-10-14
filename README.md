@@ -1,3 +1,3 @@
 # Horta-Automatizada-ESDI
 Material do Curso "Arduino Aplicado à Irrigação Automatizada de Baixo Custo".  
-[![License: CC BY SA 4.0](https://upload.wikimedia.org/wikipedia/commons/2/2f/CC_BY-SA_3.0.png)](https://creativecommons.org/licenses/by/4.0/)
+This text is licensed to the public under the <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 License</a>.
