@@ -6,7 +6,7 @@ int val_umid = 0;
 int umidade=0;
 
 // Valvula solenoide
-int solenoide = 8; // ativar led quando seco
+int solenoide = 7; // ativar led quando seco
 
 // Determina os pinos ligados ao modulo
 // myRTC(clock, data, rst)
