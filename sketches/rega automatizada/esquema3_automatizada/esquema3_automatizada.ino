@@ -3,7 +3,7 @@ a solenoide fecha quando o % ultrapassa 40%.
 */
 
 int val_umid = 0; // sensor de umidade
-int solenoide = 8; // ativar e desativar rega
+int solenoide = 4; // ativar e desativar rega
     
     
 void setup() {

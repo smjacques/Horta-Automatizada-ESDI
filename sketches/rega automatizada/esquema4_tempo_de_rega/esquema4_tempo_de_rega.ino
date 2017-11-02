@@ -4,7 +4,7 @@ que a umidade esteja abaixo de um % estabelecido (nesse caso, 40%)
 
 int val_umid = 0; // sensor de umidade
 int umidade=0;
-int solenoide = 8; // ativar led quando seco    
+int solenoide = 4; // ativar led quando seco    
 int TempoRega = 10000; //definir tempo de rega (10 secs operando)
     
 void setup() {

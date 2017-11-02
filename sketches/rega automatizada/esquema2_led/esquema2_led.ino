@@ -9,7 +9,7 @@ void setup() {
 }
 
   void led(int state) {
-  digitalWrite(8, state);
+  digitalWrite(13, state);
   }
 
 void loop() {
